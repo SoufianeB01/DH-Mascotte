@@ -1,11 +1,8 @@
 import './App.css'
+import MascotteTestPage from './pages/MascotteTestPage'
 
 function App() {
-  return (
-    <main>
-      
-    </main>
-  )
+  return <MascotteTestPage />
 }
 
 export default App
